@@ -1,0 +1,7 @@
+Jour 1 : 06/01/2014
+-Connaissance avec l'équipe.
+-Entretien avec mon tuteur de stage concernant le projet à réaliser, prise de connaissance des besoins, des outils et de l'environnement.
+-Installation et configuration de mon environnement de travail (installation de "Netbeans", un EDI, configuration de ce dernier pour le FTP)(Familiarisation avec "Codeigniter", framework php)(Installation de "FileZilla", client lourd ftp).
+-Réunion en visioconférence avec l'équipe de l'agence d'Aix.
+-Dressage du cahier des charges.
+-Début du développement.

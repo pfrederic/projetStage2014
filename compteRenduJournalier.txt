@@ -5,3 +5,7 @@ Jour 1 : 06/01/2014
 -Réunion en visioconférence avec l'équipe de l'agence d'Aix.
 -Dressage du cahier des charges.
 -Début du développement.
+
+Jour 2 : 07/01/2014
+-Suite des travaux php pour l'export des ventes dans un tableur.
+-Travaux de php pour l'envoie de mail avec fichier joint.

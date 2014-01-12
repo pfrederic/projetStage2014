@@ -9,3 +9,17 @@ Jour 1 : 06/01/2014
 Jour 2 : 07/01/2014
 -Suite des travaux php pour l'export des ventes dans un tableur.
 -Travaux de php pour l'envoie de mail avec fichier joint.
+
+Jour 3 : 08/01/2014
+-Suite des travaux php pour l'export des ventes dans un tableur et de l'envoie par mail.
+-Création de log pour le même fichier PHP.
+
+Jour 4 : 09/01/2014
+-Suite des travaux pour les logs du fichier PHP d'export des ventes et de l'envoie par mail.
+-Discussion avec mon tuteur de stage pour compléter mon travail.
+-Mise en oeuvre des nouvelles demandes, notament sur des fonctions natives de codeigniter.
+
+Jour 5 : 10/01/2014
+-Suite des travaux pour les logs du fichier PHP d'export des ventes et de l'envoie par mail.
+-Suite des modifications d'éléments natifs de codeigniter.
+-Documentation, expliquant toutes les modifications apportées à codeigniter, afin que le déploiement sur le serveur de production soit plus aisé, et pour expliquer ce que j'ai fait.

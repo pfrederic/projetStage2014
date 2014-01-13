@@ -23,3 +23,9 @@ Jour 5 : 10/01/2014
 -Suite des travaux pour les logs du fichier PHP d'export des ventes et de l'envoie par mail.
 -Suite des modifications d'éléments natifs de codeigniter.
 -Documentation, expliquant toutes les modifications apportées à codeigniter, afin que le déploiement sur le serveur de production soit plus aisé, et pour expliquer ce que j'ai fait.
+
+Jour 6 : 13/01/2014
+-Formalisation des travaux de la semaine dernière.
+-Recherche de fonctinnalités de codeigniter, pour de futur besoins.
+-Réunion en visioconférence avec l'équipe de l'agence d'Aix.
+-Participation à la vie d'entreprise

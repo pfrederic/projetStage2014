@@ -28,4 +28,11 @@ Jour 6 : 13/01/2014
 -Formalisation des travaux de la semaine dernière.
 -Recherche de fonctinnalités de codeigniter, pour de futur besoins.
 -Réunion en visioconférence avec l'équipe de l'agence d'Aix.
--Participation à la vie d'entreprise
+-Participation à la vie d'entreprise.
+-Appel de mon professeur de suivi technique.
+
+Jour 5 : 14/01/2014
+-Entretien rapide avec mon tuteur de stage pour un travail.
+-Test sur un site, pour générer une erreur.
+-Etude de la gestion des sessions de codeigniter.
+-Modification pour résolver le problème.

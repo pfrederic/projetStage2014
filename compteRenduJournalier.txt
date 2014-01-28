@@ -36,3 +36,58 @@ Jour 5 : 14/01/2014
 -Test sur un site, pour générer une erreur.
 -Etude de la gestion des sessions de codeigniter.
 -Modification pour résolver le problème.
+
+Jour 6 : 15/01/2014
+-Formalisation
+-Modification de la documentation
+
+Jour 7 : 16/01/2014
+-Exportation des ventes du 15/10/2013 au 15/01/2014.
+-Modification mineur du javascript, pour modifier une chaîne de caractères.
+-Ajout des modifications du serveur test sur le serveur recette.
+-Compréhension bogue avec IE8.
+
+Jour 8 : 17/01/2014
+-Rédaction de documents de formalisation.
+-Ajout des modifications su serveur de recette sur le serveur preprod.
+-Création favico pour site de kadeos.
+
+Jour 9 : 20/01/2014
+-Finition des apports des modifications sur le serveur preprod.
+-Réunion en visioconférence avec l'équipe de l'agence d'Aix.
+-Travail sur un problème de session, rencontré par une personne de l'équipe.
+
+Jour 10 : 21/01/2014
+-Travail sur un problème de session, rencontré par une personne de l'équipe.
+-Rédaction de documents de formalisation.
+-Finition des apports des modifications sur le serveur preprod.
+
+Jour 11 : 22/01/2014
+-Finition des apports des modifications sur le serveur preprod.
+-Test sur le serveur de Recette et correction de quelques problème.
+-Travail sur l'affichage erreur php
+-Préparation pour l'apport des modifications sur le serveur de prod.
+
+Jour 12 : 23/01/2014
+-Modification fichier cron.php.
+-Prise de de connaissance du nouveau projet (fileAttente).
+-Script SQL.
+-Formalisation du travail.
+
+Jour 13 : 24/01/2014
+-Modfication fichier cron.php.
+-Saisi de données dans l'interface typo3.
+-Modification base de données.
+-Travail sur projet fileAttente.
+-Formalisation du travail.
+
+Jour 14 : 27/01/2014
+-Travail sur projet fileAttente.
+-Réunion en visioconférence avec l'équipe de l'agence d'Aix.
+-Formalisation du travail.
+
+Jour 15 : 28/01/2014
+-Traitement d'un retour client.
+-Prise en main de Selenium.
+-Saisi de données dans l'interface typo3.
+-Beta-testeur.

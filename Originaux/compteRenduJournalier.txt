@@ -91,3 +91,26 @@ Jour 15 : 28/01/2014
 -Prise en main de Selenium.
 -Saisi de données dans l'interface typo3.
 -Beta-testeur.
+
+Jour 16 : 29/01/2014
+-Beta-testeur.
+-Problème XML.
+-Formalisation du travail.
+
+Jour 17 : 30/01/2014
+-Beta-testeur.
+-Travail sur projet fileAttente.
+-Visite de mon professeur de suivi technique.
+
+Jour 18 : 31/01/2014
+-Travail sur projet fileAttente
+-Absence l'après-midi (Invitation au MIW).
+
+Jour 19 : 03/02/2014
+-Saisi de données dans l'interface typo3.
+-Suite des travaux sur le projet fileAttente.
+-Visite de M.Tempestini.
+-Visite de mon professeur de suivi général.
+-Réunion en visioconférence avec l'équipe de l'agence d'Aix.
+-Installation de PHPDoc.
+

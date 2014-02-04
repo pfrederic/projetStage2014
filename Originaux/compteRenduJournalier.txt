@@ -114,3 +114,9 @@ Jour 19 : 03/02/2014
 -Réunion en visioconférence avec l'équipe de l'agence d'Aix.
 -Installation de PHPDoc.
 
+Jour 20 : 04/01/2014
+-Formalisation.
+-Documentation technique (PHPDoc).
+-Travail et expérimentation sur le diagramme des classes de PHPDoc.
+-Mise en place de cronexportvente.php sur le serveur de prod.
+

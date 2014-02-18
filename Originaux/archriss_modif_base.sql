@@ -11,8 +11,7 @@ date_crea					date,
 date_update					date,
 statut						int,
 nb_tentatives				int,
-id_commande					int,
-PRIMARY KEY (id_export_commandes)
+PRIMARY KEY (id_export_commande)
  );
  
 CREATE TABLE statutExport (

@@ -124,4 +124,36 @@ Jour 21 : 05/02/2014
 -Documentation technique (PHPDoc).
 -Module JSON.
 
+Jour 22 : 06/02/2014
+-Module JSON.
+-Etude et compréhension du REST.
+-Problème avec mon ordinateur (système).
 
+Jour 23 : 07/02/2014
+-Module JSON.
+-Etude et compréhension du REST.
+-Formalisme.
+
+Jour 24 : 10/02/2014
+-Module de checkage des sites
+-Réunion en visioconférence avec l'équipe de l'agence d'Aix.
+
+Jour 25 : 11/02/2014
+-Formalisation
+-Script de récupération des coordonnées GPS.
+
+Jour 26 : 12/02/2014
+-Formalisation
+-PHPDoc module de checkage des sites.
+-Suite des travaux module drupal.
+
+Jour 27 : 13/02/2014
+-Formalisation
+-Suite des travaux module drupal.
+-Commentaire script de récupération des coordonnées GPS.
+-Mise en recette des scripts du projet file d'attence (Quelques modif des scripts).
+-Ajout de contenu typo3.
+
+Jour 28 : 14/02/2014
+-Génération de toutes les doc PHPDoc.
+-Pofinage de certaines tâches.
